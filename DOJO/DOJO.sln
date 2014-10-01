@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOJO", "DOJO.csproj", "{653F664E-A175-41A0-85CD-D6A1374D3D10}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CFF074FF-CA3C-45F5-B85D-857682D496AE} = {CFF074FF-CA3C-45F5-B85D-857682D496AE}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOJO.Web", "..\DOJO.Web\DOJO.Web.csproj", "{CFF074FF-CA3C-45F5-B85D-857682D496AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{653F664E-A175-41A0-85CD-D6A1374D3D10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{653F664E-A175-41A0-85CD-D6A1374D3D10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{653F664E-A175-41A0-85CD-D6A1374D3D10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{653F664E-A175-41A0-85CD-D6A1374D3D10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFF074FF-CA3C-45F5-B85D-857682D496AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF074FF-CA3C-45F5-B85D-857682D496AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF074FF-CA3C-45F5-B85D-857682D496AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF074FF-CA3C-45F5-B85D-857682D496AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

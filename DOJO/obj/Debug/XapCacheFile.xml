@@ -1,0 +1,12 @@
+﻿<xapCache source="C:\Users\pablo\Documents\Silverlight\DOJO\Bin\Debug\DOJO.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="01/10/2014 16:59:03">
+  <file source="C:\Users\pablo\Documents\Silverlight\DOJO\obj\Debug\DOJO.dll" archivePath="DOJO.dll" lastWriteTime="01/10/2014 16:59:02" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.ComponentModel.DataAnnotations.dll" archivePath="System.ComponentModel.DataAnnotations.dll" lastWriteTime="18/11/2011 18:40:20" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\RIA Services\v1.0\Libraries\Silverlight\System.ServiceModel.DomainServices.Client.dll" archivePath="System.ServiceModel.DomainServices.Client.dll" lastWriteTime="12/04/2013 02:58:22" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\RIA Services\v1.0\Libraries\Silverlight\System.ServiceModel.DomainServices.Client.Web.dll" archivePath="System.ServiceModel.DomainServices.Client.Web.dll" lastWriteTime="12/04/2013 02:58:22" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.ServiceModel.Web.Extensions.dll" archivePath="System.ServiceModel.Web.Extensions.dll" lastWriteTime="18/11/2011 18:40:20" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Controls.Data.dll" archivePath="System.Windows.Controls.Data.dll" lastWriteTime="18/11/2011 18:40:20" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Controls.Data.Input.dll" archivePath="System.Windows.Controls.Data.Input.dll" lastWriteTime="18/11/2011 18:40:20" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Data.dll" archivePath="System.Windows.Data.dll" lastWriteTime="18/11/2011 18:40:20" />
+  <file source="C:\Users\pablo\Documents\Silverlight\DOJO\ServiceReferences.ClientConfig" archivePath="ServiceReferences.ClientConfig" lastWriteTime="01/10/2014 16:07:35" />
+  <file source="C:\Users\pablo\Documents\Silverlight\DOJO\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="01/10/2014 15:38:50" />
+</xapCache>

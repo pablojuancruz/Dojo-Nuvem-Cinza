@@ -1,0 +1,2 @@
+C:\Users\pablo\Documents\Silverlight\DOJO
+Generated_Code\DOJO.Web.g.cs

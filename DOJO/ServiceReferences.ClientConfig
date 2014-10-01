@@ -1,0 +1,16 @@
+﻿<configuration>
+    <system.serviceModel>
+        <bindings>
+            <customBinding>
+                <binding name="CustomBinding_Calculos">
+                    <binaryMessageEncoding />
+                    <httpTransport maxReceivedMessageSize="2147483647" maxBufferSize="2147483647" />
+                </binding>
+            </customBinding>
+        </bindings>
+        <client>
+            <endpoint address="../Calculos.svc" binding="customBinding" bindingConfiguration="CustomBinding_Calculos"
+                contract="ServicoCalculo.Calculos" name="CustomBinding_Calculos" />
+        </client>
+    </system.serviceModel>
+</configuration>

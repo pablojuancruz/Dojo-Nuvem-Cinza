@@ -1,0 +1,6 @@
+C:\Users\pablo\Documents\Silverlight\DOJO.Web\bin\DOJO.Web.dll.config
+C:\Users\pablo\Documents\Silverlight\DOJO.Web\bin\DOJO.Web.dll
+C:\Users\pablo\Documents\Silverlight\DOJO.Web\bin\DOJO.Web.pdb
+C:\Users\pablo\Documents\Silverlight\DOJO.Web\obj\Debug\DOJO.Web.csprojResolveAssemblyReference.cache
+C:\Users\pablo\Documents\Silverlight\DOJO.Web\obj\Debug\DOJO.Web.dll
+C:\Users\pablo\Documents\Silverlight\DOJO.Web\obj\Debug\DOJO.Web.pdb

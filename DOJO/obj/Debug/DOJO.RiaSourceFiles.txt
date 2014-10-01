@@ -1,0 +1,1 @@
+C:\Users\pablo\Documents\Silverlight\DOJO.Web\DOJO.Web.csproj,635477790994346461,Calculos.svc.cs,Properties\AssemblyInfo.cs,
