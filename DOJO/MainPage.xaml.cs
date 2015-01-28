@@ -45,7 +45,7 @@ namespace DOJO
 
         private void DiasTodosAeroportos(object sender, DiasTodosAeroportosCompletedEventArgs e)
         {
-            lblTodos.Content = String.Format("Todos os aeroportos estarão cobertos em {0} ", e.Result);
+            lblTodos.Content = String.Format("Todos os aeroportos estarão cobertos em {0} dias", e.Result);
         }
 
         private void DiasPrimeiroAeroporto(object sender, DiasPrimeiroAeroportoCompletedEventArgs e)
